@@ -1,0 +1,5 @@
+var classcom_1_1mojang_1_1realmsclient_1_1gui_1_1screens_1_1_realms_download_latest_world_screen_1_1_download_status =
+[
+    [ "field_225139_a", "classcom_1_1mojang_1_1realmsclient_1_1gui_1_1screens_1_1_realms_download_latest_world_screen_1_1_download_status.html#a53acff8e3a8daa2e049335c0e7219435", null ],
+    [ "field_225140_b", "classcom_1_1mojang_1_1realmsclient_1_1gui_1_1screens_1_1_realms_download_latest_world_screen_1_1_download_status.html#ab1b355071a5e5c0afc77d0edc69a0734", null ]
+];

@@ -1,0 +1,25 @@
+var interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader =
+[
+    [ "checkNoEntityCollision", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a56bce2b5be49d059ccace5b1eac215e7", null ],
+    [ "func_225318_b", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#af0b68ad4e91af309f5ec9837750762e4", null ],
+    [ "func_230318_c_", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#af96bc3279a76cc9dd234166759ef7a95", null ],
+    [ "getClosestEntity", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a080f283580556fa0d87ecbe3277509e6", null ],
+    [ "getClosestEntityWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a9ef50209fdb56bc0928939af14086ee2", null ],
+    [ "getClosestPlayer", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a2f9402535646a4a9c4369b2b750fbd2b", null ],
+    [ "getClosestPlayer", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#aca6e2d56f3b2b0add587765a1e75e12d", null ],
+    [ "getClosestPlayer", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a5ac27a989f28bfac0c31ec087a235438", null ],
+    [ "getClosestPlayer", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#aba264cfee994819d050b14cbafcc8a09", null ],
+    [ "getClosestPlayer", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#af6d6e4d842d645969ef78ea1d5ce4e02", null ],
+    [ "getClosestPlayer", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a8b00cd17aff9f384c726dc4cadf21882", null ],
+    [ "getEntitiesInAABBexcluding", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a5fa71ab2b3b5cbe8870c159e85ee75a2", null ],
+    [ "getEntitiesWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#ab9a7505b44b72df3263b41758e187958", null ],
+    [ "getEntitiesWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a1c7ae191c2dea1870b8e5e1af93fd7d2", null ],
+    [ "getEntitiesWithinAABBExcludingEntity", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a56806fba8f7c9e0a5e4139ee24f0cfa9", null ],
+    [ "getLoadedEntitiesWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a8bd54d106b67baee0e45c3e88dd065cf", null ],
+    [ "getLoadedEntitiesWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a2c00a6e24fefc99c2e30d6f7f16986d6", null ],
+    [ "getPlayerByUuid", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a120cc4ef9b8089b4d657f4edb93f63ab", null ],
+    [ "getPlayers", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a5c1250458d91a1412a430483339caccc", null ],
+    [ "getTargettableEntitiesWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a2ce6c072096bf72fca5c3c8ba1228a4d", null ],
+    [ "getTargettablePlayersWithinAABB", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#a84e2b1ae7c0d9aaa0b1123d867301d20", null ],
+    [ "isPlayerWithin", "interfacenet_1_1minecraft_1_1world_1_1_i_entity_reader.html#aca13b9fcbec2c2ad0d682115cc84c5d6", null ]
+];

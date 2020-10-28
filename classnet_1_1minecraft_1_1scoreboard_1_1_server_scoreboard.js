@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard =
+[
+    [ "ServerScoreboard", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a0208a2f8cd0a96345cacdcffed1da49e", null ],
+    [ "addDirtyRunnable", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#ada3e808fa436c6b1e0c682be3085b94f", null ],
+    [ "addObjective", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#aca553a052fe91a5e90c6d340f801632c", null ],
+    [ "addPlayerToTeam", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a9f327a476e729d323d53fd22e68093a1", null ],
+    [ "getCreatePackets", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a0cd9c93f6ce38b6d07dcb53e5b8a03bb", null ],
+    [ "getDestroyPackets", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#ae62cc07ac5184ab5871cf7a11c8050a8", null ],
+    [ "getObjectiveDisplaySlotCount", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a6a091d87edf77f9bc770d62751d31faf", null ],
+    [ "markSaveDataDirty", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a6923792145a8e25599f0e11af928e92d", null ],
+    [ "onObjectiveAdded", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a14d4a3a71e12655917b3088fcf592ff2", null ],
+    [ "onObjectiveChanged", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a47ae8afa744f40582e4c4d2c15bf1af2", null ],
+    [ "onObjectiveRemoved", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a2540bfb6b71ab457cf2705acda716602", null ],
+    [ "onPlayerRemoved", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a97291702d56b3f08c30245a609386b52", null ],
+    [ "onPlayerScoreRemoved", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#ac9d490253eaa1ecdfcd8304bed452b82", null ],
+    [ "onScoreChanged", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#ac37fd20a9f3957bc5b12df13d6573ab5", null ],
+    [ "onTeamAdded", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a9bcf63f3c7754d9771881ee32192f783", null ],
+    [ "onTeamChanged", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#ad63b7df67f68088f9d386c710b1cce57", null ],
+    [ "onTeamRemoved", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a907c94a422594a466d2b22f3fba75ddb", null ],
+    [ "removePlayerFromTeam", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a051fe7908044f7e3e4144b513d736a48", null ],
+    [ "sendDisplaySlotRemovalPackets", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a0e2d1b088fd8cdeaf66b1a93f96faf9f", null ],
+    [ "setObjectiveInDisplaySlot", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a4db367abe74b0d403b504691de8cbbc9", null ],
+    [ "addedObjectives", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#a98b75b3fad690500fa42be0c1a99cd4e", null ],
+    [ "dirtyRunnables", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#af51df8a9b3c716cd6b80adaec8c9bffc", null ],
+    [ "server", "classnet_1_1minecraft_1_1scoreboard_1_1_server_scoreboard.html#ac44c8236608776cd76544c61e14fdfb9", null ]
+];

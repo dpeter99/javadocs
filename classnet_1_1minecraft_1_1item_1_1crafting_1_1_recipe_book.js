@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book =
+[
+    [ "copyFrom", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#afa216e5438611d35f568f4a641171358", null ],
+    [ "func_226144_b_", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#aab0756ba827b062792fa85a2caaa9798", null ],
+    [ "func_242139_a", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a503b4bd2025aaebcfd204a5935b278a5", null ],
+    [ "func_242140_a", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a8d5a8b8683a0cec4e39c677313ec3729", null ],
+    [ "func_242141_a", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a7273edb235d90f245356579806c62366", null ],
+    [ "func_242142_a", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#ab73f7aeac87590c2b435a54e8ca86d9c", null ],
+    [ "func_242143_a", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a887e41b86e87cde0492f36e5503dba12", null ],
+    [ "func_242144_a", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a441e2ed7a0bca7b93504eb5e88753940", null ],
+    [ "func_242145_b", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#ac59741d4ea5673e93b62ef9d7dc90dbf", null ],
+    [ "func_242146_b", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a824a76c1748bcadf7e4868dd5b3680d9", null ],
+    [ "isNew", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#acb497ec1871761b9bca59a17f7c47d6f", null ],
+    [ "isUnlocked", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a655c0896f6e1cfb2e8d3ea7124502033", null ],
+    [ "lock", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#ad9d8de424bdd31948137ccf337e48c11", null ],
+    [ "lock", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a2370b391e23a14f24177d9b56a990612", null ],
+    [ "markNew", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a17441c1733d0ca968fcaba75cf9aa6e9", null ],
+    [ "markNew", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a179e7018f136962cf1ceb93b23a558b8", null ],
+    [ "markSeen", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a218b62f3a89e7867694161d1db2f1a45", null ],
+    [ "unlock", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a715a95575b8ad02ec9c4db0553a37521", null ],
+    [ "unlock", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#aa2830fb2bc90da25dbe33f06bfb99725", null ],
+    [ "field_242138_c", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#a7e8c937240dd4555469bd8403a66ff38", null ],
+    [ "newRecipes", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#ae2b89d70db1dfc440abc04b8ca8ead6a", null ],
+    [ "recipes", "classnet_1_1minecraft_1_1item_1_1crafting_1_1_recipe_book.html#adf7f46e473833c45a0f654b093bcbc5b", null ]
+];

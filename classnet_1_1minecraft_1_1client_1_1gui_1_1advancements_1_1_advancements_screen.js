@@ -1,0 +1,26 @@
+var classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen =
+[
+    [ "AdvancementsScreen", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#af45cc93838ee253219f9ba0add66eef2", null ],
+    [ "advancementsCleared", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#acaeb4b588d81dbcb8d3c50f36c285b74", null ],
+    [ "func_230430_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#ab699d63f35ea51d00b275c389da5fa3e", null ],
+    [ "func_231044_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#ab6431f6a67e12daa1bf2f03f157637e1", null ],
+    [ "func_231045_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a003e6958951ea7649d9798da89119b70", null ],
+    [ "func_231046_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a613dbe3802ef3d9ae01074aed66857ea", null ],
+    [ "func_231160_c_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#afe204e6e387d311fb14eda48fdf4f576", null ],
+    [ "func_231164_f_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a0ae743caa26c4093941ed1b0a1b1505f", null ],
+    [ "func_238695_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#ac5628bc138f4defc8d2d91d64ced3e74", null ],
+    [ "func_238696_c_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a8c5d2d0654e7caff48f3f6e9378ff31c", null ],
+    [ "func_238697_d_", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a2265242ec38e90eb53dda8f988043022", null ],
+    [ "getAdvancementGui", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#abe33743ba1f18d6e625421d2ea1e6a1f", null ],
+    [ "getTab", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#aabc008d1062ac6791415946eb117e2f6", null ],
+    [ "nonRootAdvancementAdded", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#afb7e313094df213ecaf472cdd3d1a844", null ],
+    [ "nonRootAdvancementRemoved", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a5a23c8697a73015c404aa17b38137fa0", null ],
+    [ "onUpdateAdvancementProgress", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#aa194e199ea760a157d7f5889d0f9c22a", null ],
+    [ "rootAdvancementAdded", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a1610799917d30a5f2ad153b23f201019", null ],
+    [ "rootAdvancementRemoved", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#aa253f1250427ed80d2f9846913bf97a4", null ],
+    [ "setSelectedTab", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#ad14c53e42cc714c5ee81425173c4e37f", null ],
+    [ "clientAdvancementManager", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a0bb99d35a43d74824a9ac9933a38f0c8", null ],
+    [ "isScrolling", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a64fc58dbc0cf56bfded6fb87c025daae", null ],
+    [ "selectedTab", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a178679282934d64814c99a2d5cc52481", null ],
+    [ "tabs", "classnet_1_1minecraft_1_1client_1_1gui_1_1advancements_1_1_advancements_screen.html#a2e42229a3c4be8dcdd4b5ece91c2c7c5", null ]
+];

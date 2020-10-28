@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1pathfinding_1_1_path_point =
+[
+    [ "PathPoint", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#aac9c6974e3080f65fc8944d06be42ca1", null ],
+    [ "cloneMove", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#ab56c09f529bdc31cec4f1ccfd89c2eef", null ],
+    [ "distanceTo", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#ae8417ee29b1ccdd99f3239e7eb8750d2", null ],
+    [ "distanceToSquared", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#ac67f1540e05513eaf9d77d6591b39781", null ],
+    [ "equals", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a5a63749db0c2f4800309ae0d55998919", null ],
+    [ "func_224757_c", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a72c4d0b17b68da5b0f740953babdaece", null ],
+    [ "func_224758_c", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a068b49ab99a94f49fa9a650ad228c0cd", null ],
+    [ "func_224759_a", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#ad35c7686e76c0611c9cae910d21d298d", null ],
+    [ "hashCode", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a0ce2a3f6c9ea393b1d85887a6712bd9b", null ],
+    [ "isAssigned", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a028ec228aed55a16adc19dda0c6dc5b5", null ],
+    [ "toString", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a59787b8121c0b33973fef3bc907cefee", null ],
+    [ "costMalus", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a95b221d493558b613e93378941d840bc", null ],
+    [ "distanceToNext", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#abc5490b7cc18def36c4f14bfdcd0b3c9", null ],
+    [ "distanceToTarget", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a2499a5834ed41c185ef2421a73736d25", null ],
+    [ "field_222861_j", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a58782a566aea7c3720ae072dd4ba3b2a", null ],
+    [ "hash", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#ac1e8dec1996229169a4a4b5cfeae2fb7", null ],
+    [ "index", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a67d813b73a34a3922197c7477d384c41", null ],
+    [ "nodeType", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a2ccb9894556e1602c1541421ec944c12", null ],
+    [ "previous", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a73c3744f72aa9d2b7fd1613237b10d01", null ],
+    [ "totalPathDistance", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a5a68765489ff40ff8bef604dc223f565", null ],
+    [ "visited", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a8b9476faf70e3514c5c0cbbf6c767a71", null ],
+    [ "x", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a01cd9a5e53b2cc8ec453797fde8a9ffa", null ],
+    [ "y", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#a34df9aa675a2ea7822f46840890f8d72", null ],
+    [ "z", "classnet_1_1minecraft_1_1pathfinding_1_1_path_point.html#acdb3a536d36425d46975eb3b570f988e", null ]
+];

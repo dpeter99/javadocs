@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section =
+[
+    [ "ChunkSection", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#aec53431c83898c27169203a541a86cb5", null ],
+    [ "ChunkSection", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a0ea995a639a30f7c1eadc874a81d2483", null ],
+    [ "func_235962_a_", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#ad6f4493f13a2eeb065ffe1a7a1f1ec88", null ],
+    [ "getBlockState", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#acd32e03a8e38387b5251d8279e1e30b1", null ],
+    [ "getData", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a13cec439d740bdc3a5b480b0556c1bb2", null ],
+    [ "getFluidState", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a75ce7aeab007f48d2877bb7f33b5210a", null ],
+    [ "getSize", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#ad116109bdaa13f238fec2bbcd9f2d66c", null ],
+    [ "getYLocation", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a8a5a8be2855d5ea325d7d191513fd9a5", null ],
+    [ "isEmpty", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a87314c166d56ca25bc43a455c1abdfe0", null ],
+    [ "lock", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a30e24ec54324711fe975bd5d3f3894dd", null ],
+    [ "needsRandomTick", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a9db0d38b1855acd2436fc6c95228d89a", null ],
+    [ "needsRandomTickAny", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a19881ae1546ea00586a822b255d2c167", null ],
+    [ "needsRandomTickFluid", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#aa849b7269c1f614db7fba9f0d72ee109", null ],
+    [ "read", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#ab2a2569b0921f3d901043b95dbfa132e", null ],
+    [ "recalculateRefCounts", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a38390f87acb2cd8d42afcaf780cc8d2a", null ],
+    [ "setBlockState", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#ad59816f22f7526018f3fcb5476dda58c", null ],
+    [ "setBlockState", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a5e956763dbcce48dccc15dc1bfd2df4e", null ],
+    [ "unlock", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#aa5d5f37605c0964eb3b10f907d34efc1", null ],
+    [ "write", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#ab1cfd783b62c117ca3bda42bef4c84ca", null ],
+    [ "blockRefCount", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#ac8967b7e431ddc42f63a02b63be13c9e", null ],
+    [ "blockTickRefCount", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a6b5741b72a9287012c6bd111fc123cf1", null ],
+    [ "data", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a40eaf155fc4129a2b0258ec5f6bd3fd8", null ],
+    [ "fluidRefCount", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#afee0a98a5d8c51bea7a98dd1ca8d83bd", null ],
+    [ "yBase", "classnet_1_1minecraft_1_1world_1_1chunk_1_1_chunk_section.html#a9c4f22666a5acb2b6e2a90ed7df8e0ed", null ]
+];

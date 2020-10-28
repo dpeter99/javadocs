@@ -1,0 +1,27 @@
+var enumnet_1_1minecraft_1_1item_1_1_armor_material =
+[
+    [ "ArmorMaterial", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a7812e78a6717dc004252f050533e8838", null ],
+    [ "func_230304_f_", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a41c6255e5c46461f79be121c9a609d58", null ],
+    [ "getDamageReductionAmount", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#ab3e614a361f300a4a5c95e739721d857", null ],
+    [ "getDurability", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a853a615a5f8cdae60847bae8b202dcd5", null ],
+    [ "getEnchantability", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a4de9eeee18c438ed306415ed0f22b38b", null ],
+    [ "getName", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#ae544e584e78fb3144f69425884dfae20", null ],
+    [ "getRepairMaterial", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a9bbe3cd0d6b5f8efa1e06fdc2218bf89", null ],
+    [ "getSoundEvent", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a2ec3bf01ccb965bafb81eaf3b97a60a6", null ],
+    [ "getToughness", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a99349fb736a276b134d0bb430c7a555a", null ],
+    [ "CHAIN", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a5cf47b664fe9dd3f51b03e4bb4e50ad4", null ],
+    [ "damageReductionAmountArray", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#ada666ac48879378abaca18776f7a53d2", null ],
+    [ "DIAMOND", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#af6fc42200aad78bdb43dc4560e893853", null ],
+    [ "enchantability", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a5995c6ddfa815415112bd9aaedae6a38", null ],
+    [ "field_234660_o_", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a81b15544c0f110c461d6f71d7d8ecd63", null ],
+    [ "GOLD", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a62805f8f48e62fdf60d4e427000799e0", null ],
+    [ "IRON", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#aafb35ccd8d56e4f356c5c636acfb8106", null ],
+    [ "LEATHER", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#acdf6e7b2dcea4efa34cb2a96c43e973b", null ],
+    [ "maxDamageFactor", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a7c431fbabf08877c2adbb45d1a1c1ea9", null ],
+    [ "name", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#ad573949b6b9b87433e539cf28b12b541", null ],
+    [ "NETHERITE", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#aad8c6135ab2bd900ec868e5f105e6c51", null ],
+    [ "repairMaterial", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#a9f12b43d58063469c5b7279feaad0239", null ],
+    [ "soundEvent", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#ad02735b1ab32f91a3042ffbce351119b", null ],
+    [ "toughness", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#ad8f48cf1afae5f63f8d8cb4005ca1d9b", null ],
+    [ "TURTLE", "enumnet_1_1minecraft_1_1item_1_1_armor_material.html#aa7ea85d3ff1ea535e90b0bff610c4689", null ]
+];

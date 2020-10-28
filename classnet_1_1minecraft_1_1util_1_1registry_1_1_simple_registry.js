@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry =
+[
+    [ "SimpleRegistry", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a90f0afabb1d1cc037b7f9da88f8e73ed", null ],
+    [ "containsKey", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a75023741fc72a1be94577c54030fb5dd", null ],
+    [ "func_230516_a_", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a889aa1e73d71de4e31d7957048c0d4d9", null ],
+    [ "func_230519_c_", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#afcdde535965738f4412887ed00503d96", null ],
+    [ "func_239659_c_", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#aa5c9c2a5fd4dea50ddd5685012ac9848", null ],
+    [ "func_241875_b", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a6d7f51157a6654d1521dc11d2210505f", null ],
+    [ "func_241876_d", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#aa5b4e01ea75b19b8cb84e16edd9e63b5", null ],
+    [ "getByValue", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a41f263e771cc237fad3a29be6348acc4", null ],
+    [ "getId", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a8a5efb496dca0f597209fee72ca08d31", null ],
+    [ "getKey", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#abfed81a533f35d91b23ba76b696246aa", null ],
+    [ "getOrDefault", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#aafd61b32200057f2bf4bd9d288261bfc", null ],
+    [ "getRandom", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#ae91dd962e69b1aaa28e037e6d6a3d815", null ],
+    [ "iterator", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#af1a4d0a28db643f5bdce8f0866185834", null ],
+    [ "keySet", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#afff5a63eec055119c4097b96290d88cc", null ],
+    [ "field_239649_bb_", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#aff40be1162b8749ad3289d345be7ee1c", null ],
+    [ "field_243533_bf", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a6479d57f9ee798789d7fb76690ac06e4", null ],
+    [ "field_243534_bg", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a2051a993d9fd97c3a46427643f13853d", null ],
+    [ "field_243535_bj", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#ae72744b74b67edbeca21b36aae0ced20", null ],
+    [ "field_243536_bk", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a45ec30c080bb4f1f3fc23fa443023f56", null ],
+    [ "nextFreeId", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#a5540959ea20244161114bafbf5f87618", null ],
+    [ "registryObjects", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#abbbfb0ca30fbe61810ce425c4345ad72", null ],
+    [ "values", "classnet_1_1minecraft_1_1util_1_1registry_1_1_simple_registry.html#ad35328a1fa7e292d97143b58d086060f", null ]
+];

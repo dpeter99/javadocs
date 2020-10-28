@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1world_1_1_boss_info =
+[
+    [ "BossInfo", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a48b7240203c2a6cb5903441b807f21c8", null ],
+    [ "getColor", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a7f728ae72431e6e4ba6034fa5819e004", null ],
+    [ "getName", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a6cecf2d6ec37b623cb91c6f7d08cf90d", null ],
+    [ "getOverlay", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a65bf59bf88ee35edeb2272c7b82a0fb6", null ],
+    [ "getPercent", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a57aec4ff38a2e8cafafc68000b7f198c", null ],
+    [ "getUniqueId", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#ae19999f1a2d5f99c7019fcb505b4d995", null ],
+    [ "setColor", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#ace5899089409082eda913df2c12fb6aa", null ],
+    [ "setCreateFog", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a98510350a6fa6862ad07065102502d1a", null ],
+    [ "setDarkenSky", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#aa106b8833c13e25cc02f0268de6c996d", null ],
+    [ "setName", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a358c9d230809598077dd39e0ad412bdf", null ],
+    [ "setOverlay", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a64ca3fb75bf24031be612262892c6cfe", null ],
+    [ "setPercent", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a4b6371fbc2ee318093b47ee795291da2", null ],
+    [ "setPlayEndBossMusic", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#aba3083360bbd98ae02fa1c8e9086a50e", null ],
+    [ "shouldCreateFog", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a173dfbc797dc8325afee583053385d4b", null ],
+    [ "shouldDarkenSky", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a820c223d212ba7bfe9ce5f75fc3c2e4b", null ],
+    [ "shouldPlayEndBossMusic", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a54cb68c09f2d353b016ac6c73b65ccd5", null ],
+    [ "color", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#af6af4cae37600924da12fb23f3a89c44", null ],
+    [ "createFog", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a84286c459ffed54c159f93d8f14fc691", null ],
+    [ "darkenSky", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a380bd79b00adb682c2f52766f687b386", null ],
+    [ "name", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a141f78439fdeee7bd5c9fb92f8f77123", null ],
+    [ "overlay", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#a2ba126b333301d843d5d2e4c094679e6", null ],
+    [ "percent", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#af02324a1c25fc401716553f7511e46ca", null ],
+    [ "playEndBossMusic", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#ae0ea1ea8daa9719b6adc1f8919cf1c26", null ],
+    [ "uniqueId", "classnet_1_1minecraft_1_1world_1_1_boss_info.html#aac690145ce0125dc182de2c1bec6bdf9", null ]
+];

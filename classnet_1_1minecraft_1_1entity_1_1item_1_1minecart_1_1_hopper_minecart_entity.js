@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity =
+[
+    [ "HopperMinecartEntity", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a3f83383252d85423f1876a9c9305ab70", null ],
+    [ "HopperMinecartEntity", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#ab7a3279274967f537a32fcad04db939a", null ],
+    [ "canTransfer", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a9637bebaa97d2a6269f2dcfdea54c17e", null ],
+    [ "captureDroppedItems", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a5ef4fd110816bb9ffcce15f1a23f3694", null ],
+    [ "createContainer", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a76070dea80815afb59dbbbfb2f647fc3", null ],
+    [ "getBlocked", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#aa550842e2cb2c2c47e824910a2e0bdff", null ],
+    [ "getDefaultDisplayTile", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a24d8efbb5b4d9e41084860500395aac4", null ],
+    [ "getDefaultDisplayTileOffset", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a587bcfa80d00f466b8b434ff100141f4", null ],
+    [ "getMinecartType", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a46a7fa581e9ac6de1c90056ee5c2a88f", null ],
+    [ "getSizeInventory", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a58975eb4553471b941d0d27447e0d4f3", null ],
+    [ "getWorld", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#aed20e64a66813f4995b4524fa995909b", null ],
+    [ "getXPos", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#ae95700a60d4f9185a752ca1e36a5ccf3", null ],
+    [ "getYPos", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a68b4b8f963c2e3ca5cf0db1ef8a13c2d", null ],
+    [ "getZPos", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a0b27382e1b429aecca39755faf0490d0", null ],
+    [ "killMinecart", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#ab78f3b584206b1234c0fa069457286c4", null ],
+    [ "onActivatorRailPass", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#aefc8de2eb000a1c6af7c1749a053e4fa", null ],
+    [ "readAdditional", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a0a9ba0073a67167dc3e6f14ecb8afc32", null ],
+    [ "setBlocked", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a4d6a33fff22df11088d3236789c84615", null ],
+    [ "setTransferTicker", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a8b90c1d350fd3c09124fbb01637e970c", null ],
+    [ "tick", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a732f013bafc8ba3e62a9e6ade27fff71", null ],
+    [ "writeAdditional", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#ab0bea548a8333b2b25c37f1c0fbe5b47", null ],
+    [ "isBlocked", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#aec0ce0224702727cec3b8630a4251dcc", null ],
+    [ "lastPosition", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#a38c2b00ec070d6c5de8e0136ea1e036c", null ],
+    [ "transferTicker", "classnet_1_1minecraft_1_1entity_1_1item_1_1minecart_1_1_hopper_minecart_entity.html#aba3eeac03a2bdb4618ba3220feac7d77", null ]
+];

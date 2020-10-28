@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen =
+[
+    [ "WorldOptionsScreen", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a4ac3eef4d8db27ba4cde9035ce459209", null ],
+    [ "func_230430_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a479fae896d1e58467e6b3bcee19f3afe", null ],
+    [ "func_231023_e_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a23bb4f3a7f9b08d33fdaa04de52791c3", null ],
+    [ "func_239042_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#af3e1dc26960c4acf597a2265924686f0", null ],
+    [ "func_239043_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a9925f46d39f3eb7e7f1d5229fbb901bd", null ],
+    [ "func_239048_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#af1c8c658552391a0c8afd6ae4fd8402e", null ],
+    [ "func_239052_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a533dd7213c4c3aaf1ee08729a2c6639d", null ],
+    [ "func_239054_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a8e46f3aa4846a7184bf9a6090cc38c70", null ],
+    [ "func_239055_b_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#ac249703df290ffd6a18f0fde498b92fe", null ],
+    [ "func_239059_b_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#af738d235ab2d24cbb29796c07aabb6d6", null ],
+    [ "func_243449_f", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#ac9408efc3ddd21efcbc2374a95e37126", null ],
+    [ "field_239027_a_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#aa671dcc23d6b338d6840f4caa339dd65", null ],
+    [ "field_239031_e_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a537537242271219cec30377ad5430d94", null ],
+    [ "field_239032_f_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a00fe12d2363b6e8554ac5f3298ca25bc", null ],
+    [ "field_239033_g_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a9167dfec22651f2d3b02c1e88c922f1a", null ],
+    [ "field_239034_h_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a91c4d2324b9a1494eaad2fa606243e11", null ],
+    [ "field_239035_i_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#ae15a5bdda41e65e7c9247ae4d030c5fc", null ],
+    [ "field_239036_j_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#ac81d6909f958acb9999a890f5e636b58", null ],
+    [ "field_239037_k_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a71b2762c7e189a9ee0ead92eedbfbf7f", null ],
+    [ "field_239038_l_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a10be204dc3a49ab323d75049058f49f5", null ],
+    [ "field_239039_m_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a7cc08a4b49314ae9e59488ea9552f817", null ],
+    [ "field_239040_n_", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a109496978f0bede506e9cf76f3a82351", null ],
+    [ "field_243443_f", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a4378b939a69821237c17f24e25b623dc", null ],
+    [ "field_243444_q", "classnet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_world_options_screen.html#a664f6a0906eee637c9ef96b60ac96fc1", null ]
+];

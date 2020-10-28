@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer =
+[
+    [ "FirstPersonRenderer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#ab552864836e952b68a5fe51c2cd7f6ee", null ],
+    [ "getMapAngleFromPitch", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a5ba4ff9fd79008a773da348a785dc29b", null ],
+    [ "renderArm", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#addf5c631aa8f6da9944b4b92027bd4ac", null ],
+    [ "renderArmFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#ada680700bdd19b8157d0a84b8b277151", null ],
+    [ "renderItemInFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#ac162683a43e56eb44ed7e9d1b4140058", null ],
+    [ "renderItemInFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#aff4f049cefe774fa87adb2ca2b5f1a32", null ],
+    [ "renderItemSide", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a0f0dbf112c0833357f34219e87c1b1cf", null ],
+    [ "renderMapFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a067a1cf69611ae09e312c16cbdb49172", null ],
+    [ "renderMapFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a1173599b468061ba6a88f13e8517b19d", null ],
+    [ "renderMapFirstPersonSide", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a8042adde9ea3876125a1291866b17ce3", null ],
+    [ "resetEquippedProgress", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#aed6bbd62a9e0ed6e714bb795b5647db4", null ],
+    [ "tick", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a199dd4144d730060e100c276e84fc66d", null ],
+    [ "transformEatFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#aacf6508b51799b60788264436b292bda", null ],
+    [ "transformFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a18622673599a90af20bf7363e3bb6381", null ],
+    [ "transformSideFirstPerson", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a74602a3ff37502282774181fe056891e", null ],
+    [ "equippedProgressMainHand", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#af9ca4d63907453da53b94a2efb919b59", null ],
+    [ "equippedProgressOffHand", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a2283e12a7f6d60178dbefcc1ef825447", null ],
+    [ "itemRenderer", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a7fef10194a4189d90956bbcd69dd677e", null ],
+    [ "itemStackMainHand", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#ad55a8940ed176b6bc21793d7faf2a7cc", null ],
+    [ "itemStackOffHand", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#aabda8f3af42502f0ffa952fd9d5fa12b", null ],
+    [ "mc", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a2a3d03a98a0a5f39018f69a3bbe509f5", null ],
+    [ "prevEquippedProgressMainHand", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#ad83a6d83529829fef81226ff62314e2f", null ],
+    [ "prevEquippedProgressOffHand", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#ad122f4574c69f1a240b060d0b7069048", null ],
+    [ "renderManager", "classnet_1_1minecraft_1_1client_1_1renderer_1_1_first_person_renderer.html#a6011d895500f07cfc610ab85c1ae9f83", null ]
+];

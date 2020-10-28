@@ -1,0 +1,4 @@
+var classnet_1_1minecraft_1_1entity_1_1_entity_spawn_placement_registry =
+[
+    [ "IPlacementPredicate", "interfacenet_1_1minecraft_1_1entity_1_1_entity_spawn_placement_registry_1_1_i_placement_predicate.html", "interfacenet_1_1minecraft_1_1entity_1_1_entity_spawn_placement_registry_1_1_i_placement_predicate" ]
+];

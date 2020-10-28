@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity =
+[
+    [ "SignTileEntity", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#ab79591c6c915b1ff57b4982d13476c45", null ],
+    [ "executeCommand", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a0b69cf465beb907b0b6ec7a462fdb8df", null ],
+    [ "func_230337_a_", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a56ae6a32263d9f93f2f4576c51d65e77", null ],
+    [ "func_242686_a", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a944aaba02b5eef2f1d7c1e025d24af98", null ],
+    [ "getCommandSource", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a9dc26d9bc75587fa77f70b3b339fe418", null ],
+    [ "getIsEditable", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#ac1450a47d2f4a8d285fcade279b94bff", null ],
+    [ "getPlayer", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a1fe2c0fde99e17c7384e155a4c564888", null ],
+    [ "getText", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a333843d4c18acb0c0468f31e3400fde0", null ],
+    [ "getTextColor", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a85c22772935b0d4ad26b4ff97ce7abbd", null ],
+    [ "getUpdatePacket", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a85cf5f2f4fcdac676242a89e7ea72df3", null ],
+    [ "getUpdateTag", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#ad7ad460b8752666214fc89581ee33909", null ],
+    [ "onlyOpsCanSetNbt", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a600b06ee7975c678a9beb98417a476aa", null ],
+    [ "setEditable", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a956521009817ffefe8cea96e1b794232", null ],
+    [ "setPlayer", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#af28632dca86ebcfa43ffb93f48ff6af8", null ],
+    [ "setText", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a276c418050bf1bfeb97563476adea270", null ],
+    [ "setTextColor", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#aa059f61162ae94131aea36030b0a9aca", null ],
+    [ "write", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a2ffc6c9e9d426a2ca5fb37a93c9d9ee2", null ],
+    [ "isEditable", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#ad860b232d068c23db17adb1b53d98e51", null ],
+    [ "player", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#afbc31dabe08b19111d180564a09b1478", null ],
+    [ "renderText", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#aace9f24f1b6e1ba50f122fe2f6131d0e", null ],
+    [ "signText", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#af42cc922c6fa90d9094436aa33fba071", null ],
+    [ "textColor", "classnet_1_1minecraft_1_1tileentity_1_1_sign_tile_entity.html#a98ee653196ad1f6ffa077b95621a9392", null ]
+];

@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity =
+[
+    [ "BeaconTileEntity", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#ac8890895471ada4d43cbb71f44d437e4", null ],
+    [ "addEffectsToPlayers", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a6288db518ecc1c98b4a443c3106ea671", null ],
+    [ "checkBeaconLevel", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#acd049716d6206aa18a555e473a3d1ec7", null ],
+    [ "createMenu", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a18e66a29124f5ac1ba7db1f295050f36", null ],
+    [ "func_230337_a_", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a0beafecd03bc3400585f2c4ba1b70fd1", null ],
+    [ "getBeamSegments", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a63281452128e5f1c75a56c3c0eb76b22", null ],
+    [ "getDisplayName", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a7a80641edc8b4b23ad4d78e88dcc56d2", null ],
+    [ "getLevels", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#ae5388b9e0f1a6763e1b6fad382860241", null ],
+    [ "getMaxRenderDistanceSquared", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#ac8003f524dff66fe0cde6e578dc5bede", null ],
+    [ "getUpdatePacket", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#af1cb21fc5c03e5c4fd18182f758b7c6f", null ],
+    [ "getUpdateTag", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a4394de84ae4c2962c64dfcdf3b2e767f", null ],
+    [ "playSound", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a0165c42a56d1bbeb4109984f9ef76816", null ],
+    [ "remove", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#af3d56b6f84fd9b812848fd88804b98b6", null ],
+    [ "setCustomName", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a038f10276bbf629eed38e312dafeabd5", null ],
+    [ "tick", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a8f33f2e7fbe9b8ed570d9185b9bf2724", null ],
+    [ "write", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#afef86e852adeb2deeae29199ec05e563", null ],
+    [ "beamSegments", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a97849c83576ed618a95dd72c6775d2f0", null ],
+    [ "customName", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a589164adc06ca0ee0472cf8f0d8e53fe", null ],
+    [ "field_213934_g", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#ad712cfc154b070efb3636622fba4e60e", null ],
+    [ "field_213935_i", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#abdd98261b949d08828b5d0003f9bcd48", null ],
+    [ "field_213937_n", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a83cd974057733ad607fe757943c026b5", null ],
+    [ "levels", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#ae950f2ee7854cac8c78a883ca152e279", null ],
+    [ "lockCode", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a95e1fe57a99ebaa9571d532ebfdf2f9e", null ],
+    [ "primaryEffect", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#a017776efb96e8e1b60dd3542a0ad2795", null ],
+    [ "secondaryEffect", "classnet_1_1minecraft_1_1tileentity_1_1_beacon_tile_entity.html#ae89a85362a70bd38e9a20faa1651222a", null ]
+];

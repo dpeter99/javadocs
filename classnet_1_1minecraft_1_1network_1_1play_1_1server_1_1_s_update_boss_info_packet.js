@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet =
+[
+    [ "SUpdateBossInfoPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#abbb0e244adba107673395f93c54ddefc", null ],
+    [ "SUpdateBossInfoPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a7cec6c91640a160f2e69e32aa3a5e4ad", null ],
+    [ "getColor", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#abc14cdd6a26cf2221de7eb00846ab16a", null ],
+    [ "getFlags", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a74c638b70458ada3b02c83407a6b53b8", null ],
+    [ "getName", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a4c867c695af2a91539bd514931f72024", null ],
+    [ "getOperation", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a6b32429a1b0974e539014d47f9d687e7", null ],
+    [ "getOverlay", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a636244a3af2a9a39d09d4040bb3ac3a6", null ],
+    [ "getPercent", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#af0b77f05d3247cfd93af26e54d18a962", null ],
+    [ "getUniqueId", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a5fceac00d732b37961491f137f1f306a", null ],
+    [ "processPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a8c082096fea84755786365279f7730f6", null ],
+    [ "readPacketData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#aa64b42835b7a3086cb00f68b55cf4779", null ],
+    [ "setFlags", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a20768ba52f4ff9d31687efe32804215d", null ],
+    [ "shouldCreateFog", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a790e1870dcbe1fe69291620b40574340", null ],
+    [ "shouldDarkenSky", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a9b56bdfbf3addf4e91832dcd42c2d9b7", null ],
+    [ "shouldPlayEndBossMusic", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a291dfb5c1fef9e3896989d724befe3a9", null ],
+    [ "writePacketData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a7fc788f068e287b5733cda7f268530e8", null ],
+    [ "color", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#ac8fd9b2edfc2bfdcc7f5436fb5d4f46d", null ],
+    [ "createFog", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a7ef948f19723151b84dc7aafe8da4aff", null ],
+    [ "darkenSky", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#adf9aa222bc842e80af6595556ea18261", null ],
+    [ "name", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#ae2d2a5b5ffac44709a85601e38801393", null ],
+    [ "operation", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a6d57417b0c34dfc536e8362616726573", null ],
+    [ "overlay", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a569dcfeecddb9a0b0bdfbc7889ae427f", null ],
+    [ "percent", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#af9d53fd8b22045dcfc3c888f3a527e8a", null ],
+    [ "playEndBossMusic", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#afa631a5fca8c9935287dbf7f137e21c3", null ],
+    [ "uniqueId", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_boss_info_packet.html#a6aa2ef412d5ddba51501af27933d47f4", null ]
+];

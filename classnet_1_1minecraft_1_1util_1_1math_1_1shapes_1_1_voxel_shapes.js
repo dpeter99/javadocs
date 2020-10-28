@@ -1,0 +1,4 @@
+var classnet_1_1minecraft_1_1util_1_1math_1_1shapes_1_1_voxel_shapes =
+[
+    [ "ILineConsumer", "interfacenet_1_1minecraft_1_1util_1_1math_1_1shapes_1_1_voxel_shapes_1_1_i_line_consumer.html", "interfacenet_1_1minecraft_1_1util_1_1math_1_1shapes_1_1_voxel_shapes_1_1_i_line_consumer" ]
+];

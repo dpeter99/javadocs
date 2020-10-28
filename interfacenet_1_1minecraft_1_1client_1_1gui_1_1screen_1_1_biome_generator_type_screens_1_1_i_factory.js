@@ -1,0 +1,4 @@
+var interfacenet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_biome_generator_type_screens_1_1_i_factory =
+[
+    [ "createEditScreen", "interfacenet_1_1minecraft_1_1client_1_1gui_1_1screen_1_1_biome_generator_type_screens_1_1_i_factory.html#aad279e877710586e643e6325e8b4b204", null ]
+];

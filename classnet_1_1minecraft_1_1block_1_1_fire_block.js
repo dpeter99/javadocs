@@ -1,0 +1,25 @@
+var classnet_1_1minecraft_1_1block_1_1_fire_block =
+[
+    [ "FireBlock", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a56eebdb14460922115d13ba40ed696b4", null ],
+    [ "areNeighborsFlammable", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#ada5d977db051c5d7bee8ad63d5415a39", null ],
+    [ "canBurn", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#afc16298fb61befdbed27d086ed6a889e", null ],
+    [ "canCatchFire", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a245fac28dbf5979ce17bab599fcf2598", null ],
+    [ "canDie", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a4e3d1e1ba63a51b0304c1618c040d8af", null ],
+    [ "fillStateContainer", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#ae4db85b0c7c0853c7d44422ef8078709", null ],
+    [ "func_220274_q", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#ac27c7300598be5305c6cdcad0233d9b9", null ],
+    [ "func_220275_r", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a5f07fe510e60462ef4297810c9717b28", null ],
+    [ "func_235494_a_", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a37bd332a322eadf8eb1f5ce6dfa003a2", null ],
+    [ "getNeighborEncouragement", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#addcd3721ec215337b3e535ee69e0208e", null ],
+    [ "getShape", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a0b850d23830a2ac29571a8023d4f2614", null ],
+    [ "getStateForPlacement", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a230b7864370e16baa42caec0989ea20c", null ],
+    [ "getStateForPlacement", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a1bcfb3c57446c83fd3e5bba4d0a1bb6c", null ],
+    [ "isValidPosition", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a6dc06203e5c93d9e8fc9a6aac34aea9f", null ],
+    [ "onBlockAdded", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#ac7689e6ab16380773f7c0f37cf84e0ab", null ],
+    [ "setFireInfo", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a116b57e813c1d3bf458755698d5191fb", null ],
+    [ "tick", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a172fd89a38aedff6f000fd3990108fe3", null ],
+    [ "tryCatchFire", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#ac78cb7a60e97ca75a460068161cdb118", null ],
+    [ "updatePostPlacement", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a0b0eb973a61ac9452e9e9ba456cae0c8", null ],
+    [ "encouragements", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#abcab334eec3afe39189b0967cea2e5bb", null ],
+    [ "field_242672_q", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#a8376713cdec7b8a05b29aa7f46a197b6", null ],
+    [ "flammabilities", "classnet_1_1minecraft_1_1block_1_1_fire_block.html#abb26985efbc9dbbfbc9045f5b9778eba", null ]
+];

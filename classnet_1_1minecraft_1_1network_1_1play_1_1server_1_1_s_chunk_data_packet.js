@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet =
+[
+    [ "SChunkDataPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a4524eb84bd3a16e2b41db837e1861d4e", null ],
+    [ "SChunkDataPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a09f74fd11a05df55ca6aed683cac6259", null ],
+    [ "calculateChunkSize", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a421a9d697e5590b9147cae67bf483a82", null ],
+    [ "extractChunkData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a3167cbc358269ffd58f9733749122267", null ],
+    [ "func_244296_i", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#adff6ebf84f22e673a469b84fb537d104", null ],
+    [ "getAvailableSections", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a27651cd8bcf272d92a11a36a2c0d32c2", null ],
+    [ "getChunkX", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#adfb63c41257059ce6087e4df30078e95", null ],
+    [ "getChunkZ", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a4b68fc1c75a7f8959fb5d8c5b6d7b9de", null ],
+    [ "getHeightmapTags", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a316a90df2f4dc2a06151d2b437237358", null ],
+    [ "getReadBuffer", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a1bbe456cdbccff5b15aac3962d325ee6", null ],
+    [ "getTileEntityTags", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a5ac954c94928e3997e730cc67cbe33a8", null ],
+    [ "getWriteBuffer", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a70afa62b561ccdafd585a2e0861eb621", null ],
+    [ "isFullChunk", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#ae84b5fd35e801546ce845255458ccaed", null ],
+    [ "processPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#aec23eb488c40f9c09098579e4bf77a64", null ],
+    [ "readPacketData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a148704d62be36293c8cb9ddc4f04ca6e", null ],
+    [ "writePacketData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a76122edfb761564ab6f99e580fadae2f", null ],
+    [ "availableSections", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a660234fd48ba4517fb6304ec9409f8dd", null ],
+    [ "biomes", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a635c6ca5289cabf482b5355f76c11340", null ],
+    [ "buffer", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a6e2170dab76b903af0f3d7638cadbb7f", null ],
+    [ "chunkX", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a7587fdc4cb5f7566ab1250041bf0f85f", null ],
+    [ "chunkZ", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a04b08f7e19000c8f36163b55036951c8", null ],
+    [ "fullChunk", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a64348ff0e2b9bb7c8a6160c5c297afb2", null ],
+    [ "heightmapTags", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#a418ec218300969170812d236b01e506b", null ],
+    [ "tileEntityTags", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_chunk_data_packet.html#ae4d7d63075408245030a24a58798df8e", null ]
+];

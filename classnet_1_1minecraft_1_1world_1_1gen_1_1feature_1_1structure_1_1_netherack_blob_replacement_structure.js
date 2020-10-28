@@ -1,0 +1,5 @@
+var classnet_1_1minecraft_1_1world_1_1gen_1_1feature_1_1structure_1_1_netherack_blob_replacement_structure =
+[
+    [ "NetherackBlobReplacementStructure", "classnet_1_1minecraft_1_1world_1_1gen_1_1feature_1_1structure_1_1_netherack_blob_replacement_structure.html#ab07ab9b4a25131e26bf2577bafd71632", null ],
+    [ "func_241855_a", "classnet_1_1minecraft_1_1world_1_1gen_1_1feature_1_1structure_1_1_netherack_blob_replacement_structure.html#a52c59d3b003b5c3d5cb2fa9d43a99a32", null ]
+];

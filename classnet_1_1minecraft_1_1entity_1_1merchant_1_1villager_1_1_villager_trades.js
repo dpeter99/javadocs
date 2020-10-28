@@ -1,0 +1,4 @@
+var classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_villager_trades =
+[
+    [ "ITrade", "interfacenet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_villager_trades_1_1_i_trade.html", "interfacenet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_villager_trades_1_1_i_trade" ]
+];

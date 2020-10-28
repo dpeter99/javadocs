@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet =
+[
+    [ "SUpdateLightPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a9a319ef26b9ed3a6d7736a796a1682e5", null ],
+    [ "SUpdateLightPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a8e793b0923b76ab89d783d894ebe872d", null ],
+    [ "SUpdateLightPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a29226bb06d0b9704d3d4827a70e7896d", null ],
+    [ "func_241784_j_", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a2eb458e65f8c142d649a6f4427c52403", null ],
+    [ "getBlockLightData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a115087a6889f36d415d953e0b50332ed", null ],
+    [ "getBlockLightResetMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a244f1364428af345804d39d2d2179ba1", null ],
+    [ "getBlockLightUpdateMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a360affd60b560b33877d52bf980fdce9", null ],
+    [ "getChunkX", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#abf3d012836766ae11af19bd59382203d", null ],
+    [ "getChunkZ", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a1d276d94393430f1176bdad2952a6ba4", null ],
+    [ "getSkyLightData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#abdf765e6a8ca7d8addb8537426e6523d", null ],
+    [ "getSkyLightResetMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#abd7b07d4731c273fea3519552a62be93", null ],
+    [ "getSkyLightUpdateMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#aa6d2597c2ff5e13b0e93b10e41c4824b", null ],
+    [ "processPacket", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a7e9bcf701859c3f222d3d919bbf5f219", null ],
+    [ "readPacketData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a5e9af32084db0bb183dcb728e8839b17", null ],
+    [ "writePacketData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a58c0a889e0873f5389e773cf09ca79a5", null ],
+    [ "blockLightData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a28e30e644ffb429f500970c4bf3d3a67", null ],
+    [ "blockLightResetMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a6df4f027a7558131c203d9acf32ace2b", null ],
+    [ "blockLightUpdateMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a5bb29c0591169ea79fb3c29b50d3da57", null ],
+    [ "chunkX", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a5dd891b1ab2b834c762287c15b53f7fe", null ],
+    [ "chunkZ", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a5b1244e26b549bc4e604044641556777", null ],
+    [ "field_241783_i_", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#ab213a92c591f8f38a2fdbf60991bc99a", null ],
+    [ "skyLightData", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a969b839885b7af637eeddbc3f11f9eb6", null ],
+    [ "skyLightResetMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#a3e63e4a90aef0c6b9aac0d6346e58943", null ],
+    [ "skyLightUpdateMask", "classnet_1_1minecraft_1_1network_1_1play_1_1server_1_1_s_update_light_packet.html#acd47a44283337d13855aa01820867c36", null ]
+];

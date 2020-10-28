@@ -1,0 +1,27 @@
+var classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity =
+[
+    [ "WanderingTraderEntity", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#affda741358dc828c2d7b6c9678751407", null ],
+    [ "canDespawn", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#aa15822349fba628c143ee14de5f4d297", null ],
+    [ "func_213705_dZ", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ae2eb5d1ba6f6c07af34941541e95d569", null ],
+    [ "func_230254_b_", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ab68682230142d30d047c3cc4a7b4c335", null ],
+    [ "func_241840_a", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ab78b33b6533755ddd5181c35e3bbf3dc", null ],
+    [ "getAmbientSound", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a610687663c07755b8f0c9f6c1345be98", null ],
+    [ "getDeathSound", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ad9d483ea36967c5c7f7c717310447303", null ],
+    [ "getDespawnDelay", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a4b1dc846745cee59f132a7b864739e38", null ],
+    [ "getDrinkSound", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a1d44cb0677d290ebd584c8255537e7ad", null ],
+    [ "getHurtSound", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#abeb682a9551aef454a51a2e031a8364c", null ],
+    [ "getVillagerYesNoSound", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a9afa8140d5b45277e811d66f701f96ed", null ],
+    [ "getWanderTarget", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a2cd8dc8e8f3d1240e4b2c4a241f49345", null ],
+    [ "getYesSound", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ace88c1ce388b204c4b7963b863f6dc5f", null ],
+    [ "handleDespawn", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a34209d943c65a8d7402d0d60cc35a30d", null ],
+    [ "livingTick", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#acdc3d7db3a054f9f85411c1c41085282", null ],
+    [ "onVillagerTrade", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a9d42621663d7986223b1d214941ecc03", null ],
+    [ "populateTradeData", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ac7d0ee347b3198cf462e4715f255e318", null ],
+    [ "readAdditional", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a0f9c8b07e60b8759054f90a56d156ee5", null ],
+    [ "registerGoals", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a4bd286ac32c87419adf7529bdd003a5b", null ],
+    [ "setDespawnDelay", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#ab2e6c2fbd64e2689718693eec2f7ac76", null ],
+    [ "setWanderTarget", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a7bd1ac01d9f7bfd0795f06f50e425662", null ],
+    [ "writeAdditional", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#a3d7a9611116b5660c180f3c5dd47eb24", null ],
+    [ "despawnDelay", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#adcab727ee45a7d654ca63a50a6a575cb", null ],
+    [ "wanderTarget", "classnet_1_1minecraft_1_1entity_1_1merchant_1_1villager_1_1_wandering_trader_entity.html#af1b007fdf91a1404d23065e525b5e10f", null ]
+];

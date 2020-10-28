@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform =
+[
+    [ "ShaderUniform", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a9cf35a1bd8122db1c260ae18cc09aaba", null ],
+    [ "close", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#ab91c4ca2d9d7f860038fa0d642a55ac0", null ],
+    [ "getShaderName", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a4e12da8e81eba01933ebc9f5d1b92e30", null ],
+    [ "markDirty", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a46a1664fa799ab2cffd12857e9c73332", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a7063de5584d3a8d0b27a4fcbd4cc75ac", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#ae0065333295c234f0f5eebe314aebb94", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#abc919535963b530e6e79f32cba06ccfa", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a87710515216da25299b47fb89341d8a2", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#aea46d696f3b54fe66decfb6b8c714ce3", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a7c61fa8786d4d21e152a2cfca38e9cbe", null ],
+    [ "set", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a424c48d0dcb5ade22f56a01d964fad92", null ],
+    [ "setSafe", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a8df7b0d8644d9e92bdba4262f5a48a24", null ],
+    [ "setUniformLocation", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a6e8c4231a6c3b19f3c38e798be8a8ec3", null ],
+    [ "upload", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a901b142e66f89c416a97a2c07d07da8e", null ],
+    [ "uploadFloat", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#adaf84b44186c3ea7ceb77a313a9abee3", null ],
+    [ "uploadFloatMatrix", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#af1e72b001533679ea91930d0b69cb8f6", null ],
+    [ "uploadInt", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a1c4c3212198b79e96a50a4735bfaedcc", null ],
+    [ "dirty", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a6223db11ce257bce72b48f4c13cf0641", null ],
+    [ "shaderManager", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a44b00b26c397e022c63becbbe72f06e0", null ],
+    [ "shaderName", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#aa19d7440a77c6a70580194da64e7708e", null ],
+    [ "uniformCount", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#abe905a6f1cbedd82aab85fee202def6e", null ],
+    [ "uniformFloatBuffer", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#ae04b59bae3edc050656be90455e79e91", null ],
+    [ "uniformIntBuffer", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#aa162bcc0ae57e3292f5192f13b9a7911", null ],
+    [ "uniformLocation", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#afb11243983c8d497174ca5cfca47a414", null ],
+    [ "uniformType", "classnet_1_1minecraft_1_1client_1_1shader_1_1_shader_uniform.html#a3996bddc9fbe3664d6461f7246c1d6fa", null ]
+];

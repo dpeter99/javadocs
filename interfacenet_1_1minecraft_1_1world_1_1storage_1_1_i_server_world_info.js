@@ -1,0 +1,27 @@
+var interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info =
+[
+    [ "addToCrashReport", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a418dff3349a12b72976caa2b2bd58c2c", null ],
+    [ "areCommandsAllowed", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#acc30a6237a99483ecad473bde7d92f81", null ],
+    [ "func_230391_a_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a634ae7f255812bf1a0ed3cd0a5ee2c92", null ],
+    [ "func_230392_a_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#adcd6214d07ab57b3581e890e455d273e", null ],
+    [ "func_230393_a_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#aef24e516210eaebcc290db9f71b61d47", null ],
+    [ "func_230394_a_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a0c1597caa8564444993afc48cafcf3cf", null ],
+    [ "func_230395_g_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a12b6a1990eec56750604f1e038f1f9a3", null ],
+    [ "func_230396_g_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a042ee45434b0257b4012b9ab13f02e13", null ],
+    [ "func_230397_h_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a7e3851f212d5332bd15be86a078d285f", null ],
+    [ "func_230398_q_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a65a262508fa2cdffc3fb721aa11aff56", null ],
+    [ "func_230399_u_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#ac8bbccb8edbdce70334c673a8b5a0407", null ],
+    [ "func_230400_v_", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a620dfb8a4aa1a1179ff7a60c1f283739", null ],
+    [ "getGameType", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#ac79c849b243a0012b35952c737dc2863", null ],
+    [ "getRainTime", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a1b2dd1c5edab6839299df0cb7374c355", null ],
+    [ "getScheduledEvents", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a1c11e84ab8991d3ecbaa659711230596", null ],
+    [ "getThunderTime", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a2198cdf8836ce8f38563c40e7260191b", null ],
+    [ "getWorldName", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#aa29990f27e2a2df20b7179239829b2fd", null ],
+    [ "isInitialized", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a2ff49d7ef486e0b7f77dc9e5672c823b", null ],
+    [ "setDayTime", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#abe204bd7750fba509e38fc55badc648b", null ],
+    [ "setGameTime", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a77c0e4c6557a7a0419df5de8cda42db7", null ],
+    [ "setInitialized", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a5cb58b7f825adc4c7c2d713a2193d246", null ],
+    [ "setRainTime", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#a968abf2c1ce5d10a39b8b0e001af7e37", null ],
+    [ "setThundering", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#aa80845989f8cdcdbba400798be47e580", null ],
+    [ "setThunderTime", "interfacenet_1_1minecraft_1_1world_1_1storage_1_1_i_server_world_info.html#aabbe30975a4e22f085be594358bb1daa", null ]
+];

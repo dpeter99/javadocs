@@ -1,0 +1,28 @@
+var classnet_1_1minecraft_1_1advancements_1_1_display_info =
+[
+    [ "DisplayInfo", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a92cdf10815666430a3be17d629b83a97", null ],
+    [ "getBackground", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a97c5f27137320f5012dc8158b0528cbe", null ],
+    [ "getDescription", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#ae1e3588e1532d6f2ea38bbaab865320f", null ],
+    [ "getFrame", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a7dfc52f497bf71ec30bdab5b528251e5", null ],
+    [ "getIcon", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a649a5ee7913068740006c00fe4b2a39d", null ],
+    [ "getTitle", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a8a1e793676786d46a82ef79333f37f00", null ],
+    [ "getX", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a639c4a43a6d56c0ca70502832637d9eb", null ],
+    [ "getY", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#abca0f1a9a706cb28bf76e1d19270d931", null ],
+    [ "isHidden", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#ae2f2b93a2a69c2b414e044039fb3a264", null ],
+    [ "serialize", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a865cca4e14c1ab7af3bc7775c566d526", null ],
+    [ "serializeIcon", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a71248d0c8ab306d71930865e0bbf7c38", null ],
+    [ "setPosition", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#ae82463307b58c6d860c817a366f5bb56", null ],
+    [ "shouldAnnounceToChat", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#acce5a9b78e1c08e32028fb16bece9fb8", null ],
+    [ "shouldShowToast", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a7db945924b3759607829ba5c1386ced3", null ],
+    [ "write", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a6de84f7d77690c9b186fef1973b3e4b5", null ],
+    [ "announceToChat", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a28e2131751bdaf1077d348a712a0d671", null ],
+    [ "background", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#abc68c5c187ed82f04f00273886bd8af9", null ],
+    [ "description", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a432b61b3071ed02fb8a0c6324e84cee2", null ],
+    [ "frame", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a5c8e39a5c5d334728ff380157ff079a2", null ],
+    [ "hidden", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#accc72bda07f4cdc701cebae8c0ff7ac4", null ],
+    [ "icon", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a3d8d588d1b6ccab9615a634c78df4eb8", null ],
+    [ "showToast", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a5bfc07b969a3643e7c04f5e7eb86cf71", null ],
+    [ "title", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#aa247a22a66a7df1283fa13991e4f0182", null ],
+    [ "x", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#aab00dc95f7199af5a4780cf906297fff", null ],
+    [ "y", "classnet_1_1minecraft_1_1advancements_1_1_display_info.html#a10ed61d05c32c83ffb2ab0a7b5cb11e4", null ]
+];
