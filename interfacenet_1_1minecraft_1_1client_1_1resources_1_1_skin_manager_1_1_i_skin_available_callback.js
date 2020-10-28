@@ -1,4 +1,0 @@
-var interfacenet_1_1minecraft_1_1client_1_1resources_1_1_skin_manager_1_1_i_skin_available_callback =
-[
-    [ "onSkinTextureAvailable", "interfacenet_1_1minecraft_1_1client_1_1resources_1_1_skin_manager_1_1_i_skin_available_callback.html#ac8260db09e550d5c8619656630dc7ecf", null ]
-];

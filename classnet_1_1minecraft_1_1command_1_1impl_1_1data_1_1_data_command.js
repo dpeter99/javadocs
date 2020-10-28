@@ -1,4 +1,0 @@
-var classnet_1_1minecraft_1_1command_1_1impl_1_1data_1_1_data_command =
-[
-    [ "IDataProvider", "interfacenet_1_1minecraft_1_1command_1_1impl_1_1data_1_1_data_command_1_1_i_data_provider.html", "interfacenet_1_1minecraft_1_1command_1_1impl_1_1data_1_1_data_command_1_1_i_data_provider" ]
-];

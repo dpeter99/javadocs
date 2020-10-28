@@ -1,4 +1,0 @@
-var interfacenet_1_1minecraft_1_1world_1_1gen_1_1feature_1_1structure_1_1_structure_1_1_i_start_factory =
-[
-    [ "create", "interfacenet_1_1minecraft_1_1world_1_1gen_1_1feature_1_1structure_1_1_structure_1_1_i_start_factory.html#ab301b0202bc924bb76547966a434500a", null ]
-];

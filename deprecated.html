@@ -88,16 +88,8 @@ $(document).ready(function(){initNavTree('deprecated.html',''); initResizable();
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><dl class="reflist">
-<dt>Member <a class="el" href="classnet_1_1minecraft_1_1client_1_1particle_1_1_particle_manager.html#aa7684ff512ce0c8713b8ece6de41dbda">net.minecraft.client.particle.ParticleManager.renderParticles</a>  (MatrixStack matrixStackIn, IRenderTypeBuffer.Impl bufferIn, LightTexture lightTextureIn, ActiveRenderInfo activeRenderInfoIn, float partialTicks)</dt>
-<dd><a class="anchor" id="_deprecated000003"></a>Forge: use <a class="el" href="">renderParticles(MatrixStack, IRenderTypeBuffer.Impl, LightTexture, ActiveRenderInfo, float, net.minecraft.client.renderer.culling.ClippingHelper)</a> with ClippingHelper as additional parameter  </dd>
-<dt>Member <a class="el" href="interfacenet_1_1minecraft_1_1client_1_1renderer_1_1model_1_1_i_baked_model.html#a5762f6ea7eb5caa242f521c1402b6586">net.minecraft.client.renderer.model.IBakedModel.getQuads</a>  (@Nullable BlockState state, @Nullable Direction side, Random rand)</dt>
-<dd><a class="anchor" id="_deprecated000004"></a>Forge: Use <a class="el" href="">net.minecraftforge.client.extensions.IForgeBakedModel#getQuads(IBlockState, EnumFacing, Random, net.minecraftforge.client.model.data.IModelData)</a>  </dd>
-<dt>Member <a class="el" href="interfacenet_1_1minecraft_1_1client_1_1renderer_1_1model_1_1_i_baked_model.html#a6d13bcf9982d0dfeb48088655f7d8f1e">net.minecraft.client.renderer.model.IBakedModel.getParticleTexture</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000005"></a>Forge: Use <a class="el" href="">net.minecraftforge.client.extensions.IForgeBakedModel#getParticleTexture(net.minecraftforge.client.model.data.IModelData)</a>  </dd>
-<dt>Member <a class="el" href="interfacenet_1_1minecraft_1_1client_1_1renderer_1_1model_1_1_i_baked_model.html#a42328a6fc67bb37694572eed2f316294">net.minecraft.client.renderer.model.IBakedModel.getItemCameraTransforms</a>  ()</dt>
-<dd><a class="anchor" id="_deprecated000006"></a>Forge: Use <a class="el" href="">net.minecraftforge.client.extensions.IForgeBakedModel#handlePerspective(net.minecraft.client.renderer.model.ItemCameraTransforms.TransformType, com.mojang.blaze3d.matrix.MatrixStack)</a> instead  </dd>
 <dt>Class <a class="el" href="classnet_1_1minecraft_1_1client_1_1renderer_1_1model_1_1_item_transform_vec3f.html">net.minecraft.client.renderer.model.ItemTransformVec3f</a>  </dt>
-<dd><a class="anchor" id="_deprecated000007"></a>use <a class="el" href="classnet_1_1minecraft_1_1util_1_1math_1_1vector_1_1_transformation_matrix.html">net.minecraft.util.math.vector.TransformationMatrix</a> through <a class="el" href="">net.minecraftforge.client.extensions.IForgeBakedModel#handlePerspective</a>  </dd>
+<dd><a class="anchor" id="_deprecated000007"></a>use <a class="el" href="">net.minecraft.util.math.vector.TransformationMatrix</a> through <a class="el" href="">net.minecraftforge.client.extensions.IForgeBakedModel#handlePerspective</a>  </dd>
 <dt>Class <a class="el" href="interfacenet_1_1minecraft_1_1resources_1_1_i_resource_manager_reload_listener.html">net.minecraft.resources.IResourceManagerReloadListener</a>  </dt>
 <dd><a class="anchor" id="_deprecated000008"></a>Forge: <a class="el" href="">net.minecraftforge.resource.ISelectiveResourceReloadListener</a>, which selectively allows individual resource types being reloaded should rather be used where possible. </dd>
 </dl>

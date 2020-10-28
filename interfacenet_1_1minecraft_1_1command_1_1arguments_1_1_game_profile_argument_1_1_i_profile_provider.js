@@ -1,4 +1,0 @@
-var interfacenet_1_1minecraft_1_1command_1_1arguments_1_1_game_profile_argument_1_1_i_profile_provider =
-[
-    [ "getNames", "interfacenet_1_1minecraft_1_1command_1_1arguments_1_1_game_profile_argument_1_1_i_profile_provider.html#a25774b370cd1aea75e4ef5d5c528ca6f", null ]
-];

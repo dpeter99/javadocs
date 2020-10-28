@@ -1,5 +1,0 @@
-var classnet_1_1minecraft_1_1util_1_1datafix_1_1fixes_1_1_custom_name_string_to_component_fix_tile_entity =
-[
-    [ "CustomNameStringToComponentFixTileEntity", "classnet_1_1minecraft_1_1util_1_1datafix_1_1fixes_1_1_custom_name_string_to_component_fix_tile_entity.html#a939584ae1252a9d4c06038e8c6581019", null ],
-    [ "makeRule", "classnet_1_1minecraft_1_1util_1_1datafix_1_1fixes_1_1_custom_name_string_to_component_fix_tile_entity.html#afed62d852bccc29f5b35996d3d997df1", null ]
-];

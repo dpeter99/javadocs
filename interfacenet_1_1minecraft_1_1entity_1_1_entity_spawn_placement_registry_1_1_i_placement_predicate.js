@@ -1,4 +1,0 @@
-var interfacenet_1_1minecraft_1_1entity_1_1_entity_spawn_placement_registry_1_1_i_placement_predicate =
-[
-    [ "test", "interfacenet_1_1minecraft_1_1entity_1_1_entity_spawn_placement_registry_1_1_i_placement_predicate.html#a1e194df2ab7d874a170e7847001b2b84", null ]
-];

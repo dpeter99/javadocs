@@ -1,4 +1,0 @@
-var interfacenet_1_1minecraft_1_1world_1_1spawner_1_1_world_entity_spawner_1_1_i_initial_density_adder =
-[
-    [ "query", "interfacenet_1_1minecraft_1_1world_1_1spawner_1_1_world_entity_spawner_1_1_i_initial_density_adder.html#a47b1288001ffc8ee5aba6ea0f7a6ee9c", null ]
-];

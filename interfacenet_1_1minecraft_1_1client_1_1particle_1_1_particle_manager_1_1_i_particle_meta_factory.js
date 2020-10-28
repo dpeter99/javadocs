@@ -1,4 +1,0 @@
-var interfacenet_1_1minecraft_1_1client_1_1particle_1_1_particle_manager_1_1_i_particle_meta_factory =
-[
-    [ "create", "interfacenet_1_1minecraft_1_1client_1_1particle_1_1_particle_manager_1_1_i_particle_meta_factory.html#a3c5b3164cb138de7acdb28f1f1ac5354", null ]
-];
