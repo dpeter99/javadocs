@@ -1,5 +1,13 @@
 var NAVTREEINDEX0 =
 {
+"":[2,0,0],
+"":[2,0,1],
+"":[2,0,1,0],
+"":[2,0,1,0,2],
+"":[2,0,1,0,0],
+"":[2,0,1,0,1],
+"":[2,0,1,0,1,0],
+"":[2,0,1,0,1,0,0],
 "annotated.html":[2,0],
 "classes.html":[2,1],
 "classnet_1_1minecraft_1_1advancements_1_1_advancement.html":[2,0,1,0,0,0],
@@ -10,13 +18,5 @@ var NAVTREEINDEX0 =
 "interfacemcp_1_1_methods_return_nonnull_by_default.html":[2,0,0,0],
 "interfacenet_1_1minecraft_1_1resources_1_1_i_resource_manager_reload_listener.html":[2,0,1,0,2,0],
 "md_src_doc__test.html":[0],
-"pages.html":[],
-"":[2,0,1,0,2],
-"":[2,0,1,0,1,0,0],
-"":[2,0,1,0,1,0],
-"":[2,0,0],
-"":[2,0,1],
-"":[2,0,1,0,1],
-"":[2,0,1,0],
-"":[2,0,1,0,0]
+"pages.html":[]
 };
