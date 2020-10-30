@@ -24,13 +24,11 @@
 */
 var NAVTREE =
 [
-  [ "Forge Community Docs", "index.html", [
-    [ "Test", "md_src_doc__test.html", null ],
-    [ "Deprecated List", "deprecated.html", null ],
+  [ "Forge Community Wiki: JavaDocs", "index.html", [
+    [ "Test", "md_src_docs__test.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ]
+      [ "Class Index", "classes.html", null ]
     ] ]
   ] ]
 ];
